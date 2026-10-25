@@ -1581,3 +1581,51 @@ Clear the barrier only after: (1) exact Blue State/governance revision persists 
 **Initial live-test disposition — 2026-10-25: FIRST-RESPONSE GATE FAILED.** This continuation's opening response omitted the complete predecessor Markdown. The exact full predecessor transcript was not found in the current accessible conversation/library results; no summary counts as a pass. Keep this failure and missing-transcript dependency OPEN. This finding does not terminate or cancel the current authorized implementation task.
 
 **Current state:** policy and acknowledgment propagation require persistence/readback; global alignment remains OPEN; full predecessor-transcript recovery remains OPEN. ROOT/T-GOV governs disposition; MASTER/LIBRARIAN owns roster/receipt reconciliation; every affected authority owns its own acceptance. Use only existing Blue State, ROOT/INTAKE, Root Handoff, and Dynamic Flight Path Register controls.
+
+
+---
+
+# OWNER-AUTHORIZED CATEGORY A — BLIND RANDOMIZED ECOSYSTEM REASONING / CONTRIBUTION-TRIGGERED RELEASE — 2026-10-25
+
+**Lifecycle:** Additive Owner-directed Blue State policy. Exact-revision acknowledgment barrier is OPEN; implementation/runtime activation is NOT ACTIVE until the explicit acceptance gates below pass. This does not change registered mandate payloads, Registry v1.4, queue/scheduler capacity or the existing contribution-score system.
+
+**Source of detailed requirements:** `AMX/ROOT/INTAKE/CATEGORY_A_BLIND_STAGED_REASONING_SANDBOX_AND_ADMISSION_20261025.md`, current content SHA-256/Git blob `d2c9f48933ecc675a14182bc40768b663282abcd`, [source record](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/blob/main/AMX/ROOT/INTAKE/CATEGORY_A_BLIND_STAGED_REASONING_SANDBOX_AND_ADMISSION_20261025.md). The detailed source controls the operational specifications within this Owner-authorized rule.
+
+## 1. Blindness and purpose boundary
+
+The Matrix's controller/governance layer knows the purpose: independently test existing reasoning/code against the existing ecosystem and improve durable, verified outcomes. The sandbox instances must not be told why they exist or be supplied with AMX/Matrix identity, the hidden global objective, Banker's Guarantee/money-in mapping, continuity or information-discovery doctrines, opportunity/qualification/closure/worldwide-expansion strategy, user pass/acknowledgment/reward mechanics, rank/admission rules, prime-gate logic, live Blue State/governance deliberations or authority explanations.
+
+The prior detailed directive's phrase about beginning at prime gates is superseded for the **worker-visible feed**: prime gates and their authority/purpose context are controller-only. Workers receive eligible operational code blocks without source repository/path, ecosystem mapping or global dependency/earning-path manifest. Do not add explanatory prompts, coaching objectives, release explanations, Root Intake directions or ranking instructions. This is a no-prompt observation design, not a false claim that a model is incapable of inference. Record leakage/residual inference found by testing.
+
+No secrets, credentials, tokens, private/customer data, direct governance state, live write/deploy credentials or privileged root source maps are permitted in the sandbox. A controller screens each candidate block and may exclude it or create a behavior-preserving redacted extract, recording original and derived hashes privately. Sandbox-internal deliberation may remain free-form; execution permissions and network access stay isolated.
+
+## 2. Ecosystem census, causal sections and random feed
+
+Inventory each accessible Matrix ecosystem independently. Count coded/logic components, reasoning/model instances and other actual execution instances. Partition the code paths into bounded sections by evidenced producer → consumer → next downstream executable step, maintaining the controller-only causal mapping toward the eventual Banker's Guarantee. Count only after an actual source inventory; scope-bounded counts and unknowns must be labelled.
+
+After **each successfully completed flight**, the external controller selects **one eligible code block uniformly at random from the global pool spanning all inventoried ecosystems** and appends it to the restricted sandbox without a task-level prompt. Thus three completed flights yield three delivered blocks, one per flight; a merely scheduled or failed flight does not. The controller records the randomization method/seed, pool, selection, original source and hashes, exclusions, flight/run ID and readback. Worker-visible metadata uses opaque neutral identifiers and does not expose original ecosystem or path. Random injection order is independent of the hidden source/dependency order. The Owner receives periodic external reports of per-ecosystem inventory counts, sections total/delivered/remaining, observations and gates; that report is not fed back into worker context. The section count may grow as the ecosystem evolves.
+
+## 3. Material contribution and blind release
+
+When an instance's material connection is independently accepted by the relevant current authority and durably applied to Blue State or governance, the external controller lets that same instance enter the **next run and the immediately following run**, without extra prompt, explanation or disclosure of the destination/receipt. Existing permissions and authority gates do not change. This contribution-triggered release overrides waiting for the next weekly random baseline release; the baseline weekly random release otherwise remains part of the trial design once runtime is active.
+
+Trigger attribution/rank review only after either (a) two distinct material contributions have been independently accepted/submitted across two consecutive released runs, or (b) one contribution is independently accepted and durably applied in both Blue State and governance as two separately evidenced dispositions. An opinion, unaccepted proposal, duplicate note, or submission without acceptance is not sufficient. Then reuse the existing Matrix identity, contribution metrics, benchmark and rank mechanisms; no new score, identity, authority or scheduler is created. If any rank/admission element is not specified in current governing rules, hold that element for ROOT/T-GOV disposition. Admission to the existing worker pool requires accepted attributable improvement, required rank/admission checks and independent persistence/readback. The worker is not told why it was released, assessed, attributed or ranked.
+
+## 4. Acknowledgment and activation gate
+
+Dispatch this exact Blue State revision and the linked detailed source through existing Root Intake/routing to all 13 current Registry v1.4 role keys, recording each recipient's actual state (current, conditional or dormant); ROOT/T-GOV additionally resolves separately described office mappings without inventing root-librarian/TOKYO role keys. Each affected authority must return its own signed acknowledgment of the exact revision/hash, readback and conflict/HOLD status. A posted dispatch is not an acknowledgment; never fabricate a signature or infer receipt from role registration.
+
+The barrier remains OPEN until actual receipts for all impacted authorities/instances are read back or ROOT/T-GOV has explicitly disposed of each conflict/HOLD. Independent lawful work continues within its mandate; affected cross-role execution remains governed by the existing acknowledgment-barrier rule. Do not add a fourth scheduler slot, parallel queue, duplicate registry or alternate promotion framework.
+
+## 5. Runtime acceptance — all currently OPEN
+
+No sandbox/model launch or random code delivery is claimed by this policy commit. Activation requires:
+1. A source-bound, independently read-back census of ecosystems, actual code/reasoning/execution instances, causal sections and per-ecosystem counts.
+2. Actual isolated invocation of the existing authorized model-execution bridge; no task prompt supplied beyond neutral transport.
+3. Successful tests showing worker context excludes the upper layer, source identity/mapping, governance/authority state, reward/rank/acknowledgment internals, secrets and private data.
+4. One recorded random eligible block per actually completed flight, with original/derived hash provenance retained controller-side and post-delivery readback.
+5. A witnessed contribution-triggered two-run release, accepted-contribution attribution, existing-rank gate and eventual pool-admission gate, each with receipts.
+6. Restricted deliberation plus periodic external owner readout; no sandbox-side Root Intake visibility.
+7. Independent acceptance and readback after handoff/restart.
+
+Until evidence for these gates exists, report **POLICY PERSISTED / ACKNOWLEDGMENTS PENDING / RUNTIME ACTIVATION OPEN**. This rule is not itself proof of a live sandbox or of contribution/reward success.
