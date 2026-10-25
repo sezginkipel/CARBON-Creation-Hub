@@ -4363,3 +4363,32 @@ The pre-existing assigned action belongs to MASTER/BUILD + T-COD; ROOT / MASTER 
 
 
 **Triage correction (2026-10-24):** zero missing-primary-owner records is an ownership result, not a queue-clear result. This 27-item snapshot is **not fully triaged** because 13 open issues remain UNCLASSIFIED for A/B/C. The daily full-triage zero target is therefore not demonstrated. Global Root Intake remains OPEN / NOT CLEARED.
+
+
+## 2026-10-25 — LIVE CENSUS + WORKER-STATE RECONCILIATION
+
+**Lifecycle:** Append-only source freshness correction. Earlier snapshots remain intact as historical evidence. This addendum does not close Root Intake or establish global queue clearance.
+
+### Fresh current-source readback
+- Current main ref at the time of inspection: `8cbe56843ec13522d0630fa14c2e2849b5bd77c3`.
+- Current GitHub API census, separately filtered by open issues and open PRs: **15 open issues + 12 open pull requests = 27 open GitHub records**. This supersedes the older 2026-10-24 row saying 15 issues + 11 PRs = 26. It remains only a repository census, not total Root Intake cardinality.
+- The existing Item #1 freshness boundary was corrected and read back: https://github.com/amillimatrix-eng/CARBON-Creation-Hub/issues/1. Its original 4,588-character body is retained verbatim after the new current-state section.
+- Existing Root Intake evidence:
+  - Issue #31 comment [6399341022](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/issues/31#issuecomment-6399341022) records the PR #35 / PR #66 overlapping public Evidence House branches, their differing field/visibility contracts, exact-head CI receipts, and the requirement to obtain ROOT/T-GOV disposition before merge/combine.
+  - Issue #31 comment [6399392698](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/issues/31#issuecomment-6399392698) records the refreshed Overdrive facts and why worker dispatch is held.
+- Overdrive current source pointers:
+  - `overdrive/opportunities.json` blob `e78c6e670a22f07fc646162085853b7dedf2210a`: 126 declared / 126 actual record keys.
+  - `overdrive/state.json` blob `1deb2f6f22439019f71057e922ca5d6a608e0201`: 27/27 historical queue entries completed, no current pending entry in that snapshot, last persisted tick `2026-10-21T05:24:17.072585+00:00`. This is not current 24/7 execution proof.
+  - `overdrive/claims.json` blob `643804960f531f75c56a7c369a035ce17548d031`: 125 claims generated 2026-10-21 vs 126 ledger records, ready/external-ready/executable order all zero. Claims/source parity and freshness remain OPEN.
+  - Current `overdrive/runner.py` blob `2baf5b0c8ecc18bcd6ea4a2c3df73df5b151e203` has no `RESPONDED` entry in `EVIDENCE_KIND_GATES` and still allows `ROUTING_EVIDENCE` in the `RESPONDED` missing-record upsert gate.
+  - Existing PR #69 [Require buyer evidence before RESPONDED transitions](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/pull/69) proposes the correction and has successful branch CI on head `900f2f7c1b12f985a16447077c7f5ae0ae87b6c9`, but the tested base `93a3fd23aa1325509ec69ad1d288fb98ed2454cc` is stale against the main ref above. PR #69 remains OPEN / UNMERGED and assigned to Flight 3; do not cross-slot edit/merge/close it.
+- The existing Overdrive manual worker is a four-tick main-writing workflow behind the explicit `workflow_dispatch: run_worker=run` gate. No worker dispatch was performed here because the current-main evidence-kind gate and stale claims projection remain unresolved.
+
+### Current disposition
+- **Repository census:** 27 open GitHub records (15 issues + 12 PRs); this is not a global Q total.
+- **Root Intake:** OPEN / NOT CLEARED; 13 open issues remain UNCLASSIFIED for A/B/C under the last source-backed triage read. Zero missing-primary-owner records is not equivalent to zero untriaged or zero open work.
+- **Overdrive:** ledger count parity PASS; stored tick/queue journal historical; claim projection stale; buyer access from a non-owner context NOT VERIFIED; worker liveness/recurrence NOT VERIFIED.
+- **Evidence House:** PR #35 and PR #66 remain competing candidates, both unmerged and not mergeable against current main in the latest reads. ROOT/T-GOV must approve one anonymous visibility rule and one field contract before current-main reconciliation. Exact-head CI is not deployed/live route acceptance.
+- **Next owners:** ROOT/T-GOV + T-COD/Flight 3 reconcile PR #69 against current main; ROOT/T-GOV adjudicates the PR #35/#66 contract; MASTER/LIBRARIAN preserves source and lifecycle provenance; the assigned current runtime owner refreshes the claims projection only after the response-evidence gate is resolved, through the existing authorized route.
+
+No new scheduler, worker, queue, registry, Master Build file, PR, role or authority was created. No worker dispatch, external buyer contact, payment, permission change, deployment, merge, or commercial lifecycle transition occurred. The previous snapshots and hashes above remain historical evidence, not deleted or silently rewritten.
