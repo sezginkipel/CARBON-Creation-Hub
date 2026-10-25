@@ -117,3 +117,21 @@ A dedicated authoritative registry mapping the three BUILD / CANON / GOVERNANCE 
 | HASH_CALIBRATION_TEMP | 4 known obligations; current OPEN UNKNOWN | Exact bytes and live STATUS rows inaccessible; last evidenced OPEN=4. Do not invent hashes or close them. |
 
 **Daily target:** untriaged/unowned items = 0 at least once per day. This bounded 27-item GitHub snapshot is fully assigned; this does not mean global Root Intake is zero. The full all-platform Intake/Hash Calibration census remains OPEN / UNKNOWN until its real source rows and exact bytes are recovered, hashed and read back. Active, properly owned work remains OPEN until accepted/read back or governed cancellation.
+
+
+## ADDITIVE ROUTING RECEIPT — OWNER CATEGORY A BLIND REASONING SANDBOX — 2026-10-25
+
+**Lifecycle:** ROUTED / ROOT DISPOSITION OPEN. This is not a Canon change, Blue State amendment, new role key, new queue, or runtime acceptance.
+
+Source record: `AMX/ROOT/INTAKE/CATEGORY_A_BLIND_STAGED_REASONING_SANDBOX_AND_ADMISSION_20261025.md` (commit `6048180eef98cb3236505b6972a13ec7da0e9c2e`); Root Intake receipt: [Issue #31 comment 6400097070](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/issues/31#issuecomment-6400097070).
+
+**Route using existing authority boundaries:**
+- ROOT/T-GOV — policy, role-key reconciliation, privacy/authority constraints, release and promotion gates.
+- MASTER / ROOT Librarian functions — existing continuity offices, artifact/section hashes, lineage, Index and routing provenance. Do not infer separate ROOT-LIBRARIAN or TOKYO registry identities.
+- FORX — source/dependency inventory, exact section boundaries, prior failures/fixes and leakage-risk packet.
+- T-COD — identify the real authorized model-execution bridge and implement/test isolation, artifact-only staged delivery, readback and release receipts under current ownership.
+- FORKS-ROI — intent/priority and verified causal outcome assessment.
+
+**Requested design lanes:** Reaper-13 sequential, Reaper-13 parallel, Reaper-13 hybrid, existing FORKS-ROI, and Continuity Intelligence with continuity-related role instances after role-key mapping. These are temporary reasoning configurations, not permanent role keys. Registry v1.4 has 13 canonical role keys; current runtime-instance count and total code-section count remain UNKNOWN pending direct census/manifests.
+
+**Gate:** no sandbox/model invocation is claimed. Live isolation, code-only staged feed, weekly random release, contribution attribution, promotion into the existing pool and after-handoff/restart readback all remain OPEN. Existing scheduler/queue/score/identity and governance surfaces must be reused; no duplicate mechanisms. Root Intake stays OPEN / NOT CLEARED.
