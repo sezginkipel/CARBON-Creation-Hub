@@ -84,3 +84,28 @@ Pass only after the specific video/post was opened and visually/audio inspected,
    - Consultative selling fails when it feels like a checklist/interrogation. Use genuine give-and-take, let the buyer describe priorities, reflect what was heard, and then assess fit. Do not presume a prospect's problem or lead with an unsolicited “fix”.
 
 These are starting references, not a guarantee of virality. Apply them with the brand-safety gate and measure per-post results. When data fields such as average view duration or completion are unavailable, do not invent them; obtain a platform-native readback or retain UNKNOWN.
+
+
+## Reference-account patterns to test (researched 2026-10-25; not for copying)
+
+1. **Semrush B2B TikTok pattern (secondary analytics review):** Socialinsider's first-half 2026 analysis reports 92 videos, 81.8K total engagements and 1.37% average engagement rate. It notes that many top posts reuse a recognizable format: an internal social lead reacting to relatable marketing-work moments. Source: https://www.socialinsider.io/blog/tiktok-for-b2b/
+   - Adaptation hypothesis for AMX: a recognizable recurring host/voice explaining a real builder, sales or workflow problem in plain language; make the human/customer situation the story and the software the proof. Test against formal engineering-status updates.
+   - The published statistics are third-party-reported and are not independently verified by this skill.
+
+2. **South African niche-retail pattern:** 4Time's agency case study of SA Baking Supplies reports 14,000 followers, 43,000 likes, 1,484 comments, 4,383 shares and 77 videos exceeding 10K views. The case attributes results to niche relevance and repeatable short-form storytelling. Source: https://www.4time.co.za/from-zero-to-2-5-million-views-how-short-form-video-transformed-a-baking-brands-digital-presence/
+   - Adaptation hypothesis: stay recognizably focused on AMX's audience (small business owners, operators and builders), build repeatable series, and use concrete real-world examples rather than broad “future of AI” announcements.
+   - Metrics and causal explanations are agency-reported; use them as a directional reference, not audited benchmark data.
+
+3. **TikTok Business / SnapWireless product-demo pattern:** TikTok's published case study reports a six-day campaign with 130 conversions, conversion rate above 1.6% and 8x return on ad spend. Its description emphasizes short, sharp product demonstration creative plus an explicit sales action. Source: https://ads.tiktok.com/business/en/inspiration/snapwireless
+   - Adaptation hypothesis: every offer-led clip should show the use case quickly, provide one credible proof point, and use one measurable next step. This is a paid-campaign case; do not conflate it with organic performance.
+
+4. **Platform ranking reality:** YouTube says Shorts distribution uses viewer choice (watch vs ignore), whether viewers stay, average view duration / average percentage viewed, and enjoyment signals; it does not require a minimum posting cadence. Source: https://support.google.com/youtube/answer/11914225
+   - Operational implication: consistency helps build a testable content system, but volume alone is not the goal. Improve the hook and watch-through first, and measure downstream qualified action when available.
+
+### AMX experiment design
+Use three distinct, repeatable creative lanes rather than one generic corporate format:
+- **Show, don't announce:** visible demo/proof, what changes for the customer, and a clean end result.
+- **Human problem / insight:** an understandable scenario, mistake, misconception or buyer concern, explained respectfully; no invented customer story.
+- **Unexpected but on-brand hook:** humour, contrast, or curiosity that is resolved by the actual product/evidence within the clip.
+
+For each trial, state one hypothesis, use a distinct hook/creative, preserve the actual asset and publish metadata, and compare post-level results after a consistent observation window. Keep organic and paid results separate. Retain winners as formats, not as scripts to duplicate verbatim. Never claim virality or buyer conversion without evidence.
