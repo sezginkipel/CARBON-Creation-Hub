@@ -4392,3 +4392,19 @@ The pre-existing assigned action belongs to MASTER/BUILD + T-COD; ROOT / MASTER 
 - **Next owners:** ROOT/T-GOV + T-COD/Flight 3 reconcile PR #69 against current main; ROOT/T-GOV adjudicates the PR #35/#66 contract; MASTER/LIBRARIAN preserves source and lifecycle provenance; the assigned current runtime owner refreshes the claims projection only after the response-evidence gate is resolved, through the existing authorized route.
 
 No new scheduler, worker, queue, registry, Master Build file, PR, role or authority was created. No worker dispatch, external buyer contact, payment, permission change, deployment, merge, or commercial lifecycle transition occurred. The previous snapshots and hashes above remain historical evidence, not deleted or silently rewritten.
+
+## 2026-10-25 CORRECTION — OVERDRIVE CLAIM SCOPE VS LEDGER CARDINALITY
+
+**This corrects the inference in the earlier 2026-10-25 section above. That earlier source count is factual, but the 125/126 difference alone is not evidence of a missing-claim integrity defect.**
+
+Direct main source at `edd9fe91dda80cba888a3ed09d6329a61f1c204a`:
+- `overdrive/opportunities.json` blob `e78c6e670a22f07fc646162085853b7dedf2210a`: declared `record_count=126`, actual records=126; ledger count invariant PASS.
+- `overdrive/signals.json` blob `c7d01b85f6d1a718dd5e4095b0c64be319e79cc6`: generated `2026-10-21T05:24:17.067272+00:00`, records in derived ledger=125, iSCOPE=22, PRI=97.
+- `overdrive/claims.json` blob `643804960f531f75c56a7c369a035ce17548d031`: generated `2026-10-21T05:24:17.069550+00:00`, 125 distinct opportunity keys, ready/external-ready/executable=0 in that snapshot.
+- The unmatched source record is `paypal.com|uk-business-secondary-card-for-amx|2026-10-23`, state `DISCOVERED`, execution owner `PRI / AMX OWNER — QUALIFICATION ONLY; no external contact or spend yet authorized`. It is held pending uncle consent and official PayPal confirmation of South-Africa-resident secondary-card eligibility. It must not be automatically promoted to a standard external-action PRI claim.
+- Current `overdrive/runner.py` blob `2baf5b0c8ecc18bcd6ea4a2c3df73df5b151e203`: `detect_work()` places all 126 source records in the full `signals["ledger"]` view but only routes an office claim when owner is exactly `iSCOPE`, exactly `PRI`, or when owner is absent and state is `DISCOVERED`. The office claim map therefore is not a universal one-to-one mirror of all opportunity records.
+- Actual defect: `signals.json` and `claims.json` are stale snapshots from 21-Oct. Their recorded READY=0 values are historical and not current runtime/liveness proof. A current worker tick would refresh the projections, but the independent RESPONDED evidence-kind safety gate remains unresolved on main under the existing Flight-3 PR #69; no worker was run by this correction.
+
+Corrected detailed disposition is persisted and read back in [Issue #1 current-source correction](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/issues/1) and [PR #68 correction comment 6399537043](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/pull/68#issuecomment-6399537043).
+
+**Current state:** ledger count invariant PASS 126/126; signal/claim freshness OPEN; current worker tick/recurrence NOT VERIFIED; owner-limited PayPal item remains HOLD; no contact, spend or payment authorized; Root Intake OPEN / NOT CLEARED. Historical snapshots remain preserved; no queue, worker, schedule, registry, mandate, account, claim, or ledger entry was changed.
