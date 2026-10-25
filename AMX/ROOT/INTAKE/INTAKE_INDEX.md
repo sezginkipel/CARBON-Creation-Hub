@@ -1,5 +1,17 @@
 # OWNER DIRECTIVE — P0 / HIGHEST EXISTING PRIORITY — CLEAR ROOT INTAKE NOW
 
+## CATEGORY A — BLUE STATE / GOVERNANCE ACKNOWLEDGMENT BARRIER + FULL TRANSCRIPT HANDOFF — 2026-10-25
+
+- **Status:** POLICY PERSISTED / DISPATCH POSTED / ACKNOWLEDGMENTS PENDING / ALIGNMENT BARRIER OPEN.
+- **Canonical Blue State:** [BLUE_STATE_MANDATE_BINDING_AND_PREFLIGHT_V1.md](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/blob/main/AMX/ROOT/BLUE_STATE/BLUE_STATE_MANDATE_BINDING_AND_PREFLIGHT_V1.md) — commit `67817e13e6649d351a0f789556407766418520ba`, blob `0ceb47d9e9d792b3c7eb8b93cb32b42b6dc932f3`.
+- **Root Intake execution/receipt artifact:** [CATEGORY_A_BLUE_STATE_GOVERNANCE_ACK_AND_FULL_TRANSCRIPT_HANDOFF_20261025.md](https://github.com/amillimatrix-eng/CARBON-Creation-Hub/blob/main/AMX/ROOT/INTAKE/CATEGORY_A_BLUE_STATE_GOVERNANCE_ACK_AND_FULL_TRANSCRIPT_HANDOFF_20261025.md) — commit `ceae08a499d58fb6167370968ba28d9d5feb43b4`.
+- **Existing Root Intake dispatch:** issue #31 comment `6399324662`. This proves comment persistence only; per-role delivery/receipt remains pending.
+- **Live test:** first-response gate FAILED because the opening response did not include complete predecessor Markdown. Exact transcript not recovered from accessible sources. Preserve FAIL/HOLD; no summary counts as a pass.
+- **Rule:** every Blue State/governance change starts the acknowledgment barrier; impacted roles/instances must read and accept the exact revision; affected and cross-role Category A work resumes only after the required receipts and conflict/readback gate pass. Successor's first assistant message must carry the full Markdown transcript of its dead predecessor.
+- **Registry:** v1.4 mandate root unchanged: `96c0beb3328ebefc16286d93a7baadc0ff4be0a17c1e6a8718b89de94f58df1a`.
+
+---
+
 ## CURRENT OWNER-DIRECTED CATEGORY A — CONTINUOUS MATRIX LIVENESS + HASH-GATED SECTIONAL EXECUTION — 2026-10-24
 
 **Lifecycle:** Owner-direct policy merged additively into the existing Blue State liveness / authorized-work-persistence / adaptive-capacity controls. **Policy MERGED; runtime activation OPEN.** This is not a Canon rewrite and does not authorize new permanent workers, a parallel queue, a new scheduler, a second register, or a new score system.
