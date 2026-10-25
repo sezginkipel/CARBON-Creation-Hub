@@ -1544,3 +1544,40 @@ Activating and validating the liveness/sectional-dispatch path is the first infr
 **V1/build boundary:** update the existing V1 Master Build File only at its located, authoritative destination and only with the authorized implementation slice. Do not create another Master Build File. If its current target is not recovered, keep that exact target-location/readback dependency OPEN through existing Root Intake while continuing independent authorized implementation work.
 
 **Operational design and owner-routing record:** [ROOT INTAKE — Continuous Runtime + Post-Run Submission Discipline](https://app.notion.com/p/3f48f8b56cd7818aa0e7cd336f6b13b8?pvs=204), Category A Queue-to-Flight Conveyor.
+
+
+---
+
+# OWNER-DIRECTED CATEGORY A — BLUE STATE / GOVERNANCE CHANGE ACKNOWLEDGMENT BARRIER + FULL PREDECESSOR CHAT MARKDOWN — 2026-10-25
+
+**Status:** Owner-directed; additive; effective immediately. Acknowledgment barrier remains OPEN until the required receipts are read back. No role-mandate payload, mandate Registry root, queue, scheduler, worker, tracker, or receipt register is created or changed by this rule.
+
+## A. Trigger and barrier
+
+Every write, amendment, supersession, or material change to either canonical Blue State or governance immediately opens an **ALIGNMENT BARRIER**. The writer must preserve the existing task; persist and read back the exact change; identify impacted roles/instances; dispatch the exact immutable revision through existing ROOT/INTAKE and notification routes; then collect receipts in the existing append-only Dynamic Flight Path Register. A prompt update, posted comment, successful wake, correct next answer, or claim of propagation is not proof that an affected worker read the rule.
+
+Pause active Matrix execution, including Category A directives, while ROOT/T-GOV and MASTER/LIBRARIAN coordinate persistence, dispatch and readback. This is not cancellation and does not erase tasks, evidence, weights, learnings or unfinished obligations. An individually acknowledged lane may resume only for work with no unresolved dependency on pending roles; affected cross-role work remains HOLD. Matrix-wide, governance-dependent and interdependent Category A work resumes only after all affected authorities and active instances have accepted the exact revision or their HOLD/conflict has received explicit ROOT/T-GOV disposition. Resume from the furthest evidenced checkpoint; do not restart completed work.
+
+## B. Affected-role roster and acknowledgment
+
+Determine impact from the current Registry and actual dependencies. If the change is matrix-wide, is a governance/continuity change, or its scope is uncertain, include all registered roles: ROOT-TGOV; MASTER-LIBRARIAN; T-COD; T-MED; FORX; FORKS-ROI; ISCOPE; PRI; BANKER; BOUNTY-REAPER; CARBON; MATRIX-CRITIC; COMMISSIONING-INSPECTOR. Add every affected temporary worker or unregistered active instance. Every affected active instance needs its own receipt; a role-level receipt does not prove every runtime acknowledged. A narrower roster requires source-backed impact analysis and ROOT/T-GOV disposition. Unknown scope defaults to the full roster and HOLD.
+
+Each affected worker/authority must open the exact source revision, identify its effect on its mandate and dependencies, and write an identity-bound receipt to the existing Dynamic Flight Path Register. Required fields: unique acknowledgment event ID; parent governance-change ID; role/authority and exact worker-instance reference; source path, commit SHA and blob SHA; read timestamp; state; explicit understanding/acceptance statement; next behavior and dependencies; conflicts/HOLD plus owner and next action; and an independent readback pointer.
+
+States are distinct: `RECEIVED` = delivery only; `READ` = exact revision opened; `ACCEPTED` = impact understood and mandated behavior accepted; `HOLD/CONFLICT` = no silent continuation through unresolved conflict. A comment is not proof it reached the recipient. Missing delivery/readback stays **PENDING / DELIVERY UNVERIFIED**. Never fabricate/backdate another worker's acknowledgment. Call a receipt cryptographically SIGNED only if a genuine signature is verified; otherwise use an attributable, source-bound acknowledgment.
+
+## C. Mandatory full-Markdown predecessor handoff — first-response gate
+
+Every new chat/worker instance continuing after a predecessor went dead, disconnected or became unresponsive must accompany its **very first assistant message** with the complete Markdown transcript of the predecessor it is inheriting. Preserve the full ordered conversation and material context, including user instructions, assistant messages, tool/action results, decisions, evidence, corrections, artifacts, open work and last known state. A summary, memory, excerpt, title, bare link or claim of continuity is not a substitute. An attached Markdown file is acceptable only when the complete file accompanies that first response and its source identity is clear.
+
+Before a predecessor disappears, use the existing controlled/private Root Handoff/continuation route to persist the complete transcript Markdown, with transcript/session ID, source, capture time, completeness status, SHA-256, and continuation-receipt pointer. Store only necessary pointers, hashes and status in this public repository; never copy private transcript contents, credentials, personal data or controlled evidence here.
+
+At startup, recover and verify the exact full transcript before the first response. If it cannot be recovered, the **FIRST-RESPONSE GATE = FAIL/HOLD**: do not fabricate content or silently substitute a summary; preserve the task's durable checkpoint and route the missing transcript capture to the existing owner while continuing already-authorized current work. A materially correct first response does not cure this failure. The Matrix must not assume ChatGPT exposes another conversation's full Markdown automatically: that cross-session transport is UNVERIFIED until tested through an authorized route. The requirement remains in force.
+
+## D. Acceptance and current test
+
+Clear the barrier only after: (1) exact Blue State/governance revision persists and is independently read back; (2) dispatch and actual delivery/read are distinguished; (3) every affected authority and active instance has an ACCEPTED receipt or explicit governed disposition; (4) conflicts and final roster are read back; and (5) successor first-response tests verify the complete predecessor Markdown is actually attached.
+
+**Initial live-test disposition — 2026-10-25: FIRST-RESPONSE GATE FAILED.** This continuation's opening response omitted the complete predecessor Markdown. The exact full predecessor transcript was not found in the current accessible conversation/library results; no summary counts as a pass. Keep this failure and missing-transcript dependency OPEN. This finding does not terminate or cancel the current authorized implementation task.
+
+**Current state:** policy and acknowledgment propagation require persistence/readback; global alignment remains OPEN; full predecessor-transcript recovery remains OPEN. ROOT/T-GOV governs disposition; MASTER/LIBRARIAN owns roster/receipt reconciliation; every affected authority owns its own acceptance. Use only existing Blue State, ROOT/INTAKE, Root Handoff, and Dynamic Flight Path Register controls.
