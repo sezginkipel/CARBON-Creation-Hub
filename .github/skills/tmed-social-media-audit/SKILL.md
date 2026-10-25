@@ -70,3 +70,17 @@ Return a short prioritized table with: post URL/ID, date, issue, evidence seen, 
 
 ## Acceptance
 Pass only after the specific video/post was opened and visually/audio inspected, all critical brand and evidence gates passed (or exact corrections were made with authority and platform readback), and the review receipt was persisted and independently read back. Any uninspected creative is NOT VERIFIED.
+
+
+## Research references and operating implications (reviewed 2026-10-25)
+
+1. **TikTok for Business — Creative advertising guide:** https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide
+   - Native-feeling, short, authentic and testable creative; hook viewers quickly; tell a relevant story; use captions; deliver value or emotion early; test distinct variants and improve using engagement, watch time and conversion evidence.
+2. **YouTube Help — Shorts search & discovery:** https://support.google.com/youtube/answer/11914225
+   - Recommendations depend on viewer personalization and actual response: whether people choose to watch or ignore, whether they stay, average view duration / average percentage viewed, and enjoyment signals. YouTube states there is no minimum publishing cadence required for good performance. Do not equate more posts with guaranteed reach.
+3. **YouTube Blog — Shorts deep dive:** https://blog.youtube/creator-and-artist-stories/youtube-shorts-deep-dive/
+   - Start with an immediate hook, use a distinct authentic story, build curiosity then satisfy it; judge thumbnails and title in context of the feed, and make creative variation deliberate.
+4. **Scott Edinger, Harvard Business Review — Sales Reps, Stop Asking Leading Questions (2017):** https://hbr.org/2017/03/sales-reps-stop-asking-leading-questions
+   - Consultative selling fails when it feels like a checklist/interrogation. Use genuine give-and-take, let the buyer describe priorities, reflect what was heard, and then assess fit. Do not presume a prospect's problem or lead with an unsolicited “fix”.
+
+These are starting references, not a guarantee of virality. Apply them with the brand-safety gate and measure per-post results. When data fields such as average view duration or completion are unavailable, do not invent them; obtain a platform-native readback or retain UNKNOWN.
