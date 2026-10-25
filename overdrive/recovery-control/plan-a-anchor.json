@@ -1,12 +1,12 @@
 {
   "activated_at": "2026-10-23T14:45:56.117827Z",
   "last_successful_plan_a": {
-    "commit_sha": "b68b40d884bf9ba3b3f1d06b92c20f9fa62549fb",
-    "completed_at": "2026-10-25T01:02:21.264677Z",
-    "receipt_sha256": "df60a03bb7731b9c6ed40d25e00a5907735d0d225196890564a9cd17467bb8f0",
+    "commit_sha": "e085366cc63326362fa33f2eb5f90f8d5e8faba5",
+    "completed_at": "2026-10-25T07:25:36.112194Z",
+    "receipt_sha256": "43b5daf8234ea50777e4547b58b646cb6825834abdf90ed5ba2cde3ca63d8216",
     "registry_root_sha256": "96c0beb3328ebefc16286d93a7baadc0ff4be0a17c1e6a8718b89de94f58df1a",
     "run_attempt": "1",
-    "run_id": "40149022155",
+    "run_id": "40172708989",
     "schedule_expression": "0 * * * *"
   },
   "schema": "AMX_PLAN_A_LIVENESS_ANCHOR_V1"
